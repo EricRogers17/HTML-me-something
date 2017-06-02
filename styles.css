@@ -1,0 +1,36 @@
+body {
+	background-color: lightblue;
+	margin: 20px 40px;
+}
+header {
+	font-size: 20px;
+	text-align: center;
+}
+img {
+	max-width: 400px;
+	max-height: 400px;
+	padding-left: 20px;
+}
+div {
+	margin: 0 auto;
+	max-width: 900px;
+}
+article {
+	max-width: 80%;
+	float: left;
+}
+.video-link {
+	text-decoration: none;
+	font-size: 20px;
+}
+#sidebar {
+	border: 2px solid white;
+	width: 200px;
+	float: right;
+	height: 1000px;
+	background-color: white;
+}
+footer {
+	clear: both;
+	text-align: center;
+}
